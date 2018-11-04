@@ -59,7 +59,7 @@ void intropage()
 clrscr();
 int y;
 cout<<"\n\n\n\n\n\n";
-cout<<"           *=============== STUDENT MANAGEMENT SYSTEM ===============*\n\n";
+cout<<"           *=============== SCHOOL MANAGEMENT SYSTEM ===============*\n\n";
 y=verifypassword();
 if(y==0)
 mainmenu();
