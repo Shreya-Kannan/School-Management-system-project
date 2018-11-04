@@ -75,7 +75,7 @@ void mainmenu()
 clrscr();
 int ch;
 cout<<"==============================MAIN MENU============================"<<endl;
-cout<<"\n\n\n1.Student management\n2.teacher managaement\n3.Help\n4.Credits\n5.Exit program\n\n\n";
+cout<<"\n\n\n1.Student management\n2.teacher management\n3.Help\n4.Credits\n5.Exit program\n\n\n";
 cout<<"\n\n\==================================================================="<<endl;
 cout<<"PLEASE ENTER YOUR CHOICE"<<endl;
 cin>>ch;
